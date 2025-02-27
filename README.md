@@ -35,6 +35,7 @@ This is a **React-based Disease Prediction Model** that presents users with a se
 This script is designed to work **without a traditional build step**. Simply load it in a web server that supports **ESM imports**.
 
 ## Demo link 
+- [Deployed project details](https://www.val.town/v/abhishekprojects/Disease_Prediction_Model) 
 - [DiseasPrediction](https://abhishekprojects-disease_prediction_model.web.val.run/)
 
 ## Risk Disclaimer
