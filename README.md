@@ -35,7 +35,7 @@ This is a **React-based Disease Prediction Model** that presents users with a se
 This script is designed to work **without a traditional build step**. Simply load it in a web server that supports **ESM imports**.
 
 ## Demo link 
-- https://www.val.town/v/abhishekprojects/superLimePig
+- [DiseasPrediction](https://abhishekprojects-disease_prediction_model.web.val.run/)
 
 ## Risk Disclaimer
 - This model **does not provide medical advice**.
