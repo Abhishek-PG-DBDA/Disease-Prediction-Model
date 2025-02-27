@@ -1,4 +1,3 @@
-This is a **React-based Disease Prediction Model** that presents users with a series of health-related questions and calculates the likelihood of having specific diseases based on their responses.
 # Disease Prediction Model
 
 ## Overview
@@ -14,7 +13,7 @@ This is a **React-based Disease Prediction Model** that presents users with a se
 ## Technologies Used
 - **React 18.2.0**
 - **ES Modules (ESM.sh)**
-- **JavaScript (JSX)**
+- **TypeScript (TSX)**
 - **HTML & CSS**
 - **React Hooks (useState)**
 
@@ -25,7 +24,7 @@ This is a **React-based Disease Prediction Model** that presents users with a se
 4. The report provides a **percentage-based risk level** (Low, Medium, or High) for each disease.
 
 ## Installation & Usage
-1. Copy the provided JavaScript code into a file (e.g., `disease_predictor.js`).
+1. Copy the provided TypeScript code into a file (e.g., `disease_predictor.js`).
 2. Ensure your project includes a root `div` in the HTML:
    ```html
    <div id="root"></div>
